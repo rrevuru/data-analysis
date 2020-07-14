@@ -3,7 +3,7 @@ This repository contains some example notebooks for data science, mostly based o
 
 ## Data Visualization
 These examples provide data visualization for various publicly available datasets
-- [Covid-19 Data Visualization](dataviz/covid-19.ipynb) is an example thats shows Visualization using Python, Pandas, Plotly.
+- [Covid-19 Data Visualization](dataviz/Covid-19.ipynb) is an example thats shows Visualization using Python, Pandas, Plotly.
 
 
 
