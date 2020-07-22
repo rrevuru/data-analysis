@@ -7,7 +7,7 @@ These examples provide data visualization for various publicly available dataset
 
 ## Machine Learning
 Predicting Customer Churn using XGBoost
-- [Prediciting Customer Churn using XGBoost](Machine Learning/XGBoost_Customer_Churn.ipynb) is an sample workbook predicting customer churn using Xgboost. This is inspired by AWS sagemake examples, but modified to use General Xgboost Implementation.
+- [Prediciting Customer Churn using XGBoost] (https://github.com/rrevuru/data-analysis/blob/master/Machine%20Learning/XGBoost_Customer_Churn.ipynb) is an sample workbook predicting customer churn using Xgboost. This is inspired by AWS sagemake examples, but modified to use General Xgboost Implementation.
 
 
 
